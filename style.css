@@ -109,10 +109,6 @@ html {
           user-select: none;
 }
 
-body {
-  background-color: #000;
-}
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
