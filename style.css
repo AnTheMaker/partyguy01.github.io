@@ -20,13 +20,17 @@
     background-position: 0% 50%;
   }
 }
-body {
+.containergr {
+  width: 100%;
+  height: 100vh;
+  background-size: 300% 300%;
   background-image: -webkit-linear-gradient(135deg, #e33b3b 0%, #ff357f 25%, #9844b7 50%, #576fe6 100%);
   background-image: linear-gradient(-45deg, #e33b3b 0%, #ff357f 25%, #9844b7 50%, #576fe6 100%);
   background-color: #9844B7;
   -webkit-animation: background 20s ease infinite;
           animation: background 20s ease infinite;
 }
+
 
 
 
